@@ -10,6 +10,7 @@ Everyday_Algorithm
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/0258-add-digits) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/2195-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -27,4 +28,12 @@ Everyday_Algorithm
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Array
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/2195-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
