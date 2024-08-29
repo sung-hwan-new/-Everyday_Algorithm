@@ -24,6 +24,7 @@ Everyday_Algorithm
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1812-reformat-phone-number](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/1812-reformat-phone-number) |
 ## String Matching
 |  |
 | ------- |
