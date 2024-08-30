@@ -6,6 +6,7 @@ Everyday_Algorithm
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/0258-add-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sung-hwan-new/everyday_algorithm/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Simulation
 |  |
 | ------- |
